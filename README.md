@@ -17,6 +17,7 @@ Repositório para armazenamento de resumos sobre Git e GitHub do curso Versionam
   
 ```
 git init
+  
 
 ```
 
